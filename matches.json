@@ -7,12 +7,12 @@
    },
    "Mandante": {
     "Nome": "Brasil",
-     "Força": "5",
+     "Força": 5,
       "Imagem": "TODO"
    },
    "Visintante": {
     "Nome": "Argentina",
-     "Força": "5",
+     "Força": 5,
       "Imagem": "TODO"
    }
   }
