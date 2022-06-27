@@ -1,0 +1,19 @@
+[
+{
+"Descrição": "Eliminatoris da copo do mundo 2022"
+  "Local" {
+   "nome": "Maracanã",
+    "Imagem": "TODO",
+   },
+   "Mandante": {
+    "Nome": "Brasil",
+     "Força": "5",
+      "Imagem": "TODO"
+   },
+   "Visintante": {
+    "Nome": "Argentina",
+     "Força": "5",
+      "Imagem": "TODO"
+   }
+  }
+]
