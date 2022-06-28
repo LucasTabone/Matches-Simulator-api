@@ -2,16 +2,16 @@
 {
 "Descricao": "Eliminatórias da copo do mundo 2022",
   "Local": {
-   "nome": "Maracanã",
+   "Nome": "Maracanã",
     "Imagem": "TODO"
    },
    "Mandante": {
-    "nome": "Brasil",
+    "Nome": "Brasil",
      "Forca": 5,
       "Imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
    },
    "Visintante": {
-    "nome": "Argentina",
+    "Nome": "Argentina",
      "Forca": 5,
       "Imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
    }
